@@ -80,6 +80,7 @@
       <TabItem Header="TreeView"><pages:TreeViewPage/></TabItem>
       <TabItem Header="Viewbox"><pages:ViewboxPage/></TabItem>
       <TabItem Header="Window Customizations"><pages:WindowCustomizationsPage/></TabItem>
+      <TabItem Header="Popup"><pages:PopupPage/></TabItem>
       <TabControl.Tag>
         <StackPanel Width="115" Spacing="4" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="8">
           <ComboBox x:Name="Decorations" SelectedIndex="0">
